@@ -1,11 +1,7 @@
-      let x = 0;
-      let o = 0;
-
-
 function XO(str) {
     //code here
-       x = 0;
-       o = 0;
+      let x = 0;
+      let o = 0;
     
       for (var i = 0; i < str.length; i++) {
       currentCharacter = str.charAt(i);
